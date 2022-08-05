@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
 
 
-        <sb.version>2.3.0.RELEASE</sb.version>
+        <sb.version>2.5.12</sb.version>
         <lombok.version>1.18.8</lombok.version>
         <druid.version>1.1.18</druid.version>
         <mysql-connector.version>8.0.18</mysql-connector.version>
